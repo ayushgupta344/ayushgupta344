@@ -177,7 +177,7 @@ Hands-on learning across AWS cloud foundations, AI, and application development.
 
 <br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ayushgupta344&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph"/>
+<a href="https://github.com/ayushgupta344?tab=repositories"><img src="https://img.shields.io/badge/Explore-My%20Repositories-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/></a>
 
 </div>
 
@@ -191,7 +191,7 @@ Hands-on learning across AWS cloud foundations, AI, and application development.
 
 </div>
 
-This 3D contribution calendar is generated automatically by the [profile workflow](.github/workflows/profile-3d.yml). **First-time setup:** open the repository's **Actions** tab, select **GitHub Profile 3D Contributions**, and choose **Run workflow** to generate the first image. Future updates are scheduled daily.
+The image below is a local fallback preview, so it will not show as a broken image while the real calendar is being generated. To replace it with your personal 3D contribution history, open the [profile workflow](.github/workflows/profile-3d.yml), go to **Actions**, select **GitHub Profile 3D Contributions**, and click **Run workflow**. Future updates are scheduled daily.
 
 ---
 
