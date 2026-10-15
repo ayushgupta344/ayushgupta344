@@ -183,15 +183,13 @@ Hands-on learning across AWS cloud foundations, AI, and application development.
 
 ---
 
-## 🌌 3D Contribution View
+## 🌌 3D Contribution Graph
 
 <div align="center">
 
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub contribution calendar" width="100%"/>
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub contribution graph" width="100%"/>
 
 </div>
-
-The image below is a local fallback preview, so it will not show as a broken image while the real calendar is being generated. To replace it with your personal 3D contribution history, open the [profile workflow](.github/workflows/profile-3d.yml), go to **Actions**, select **GitHub Profile 3D Contributions**, and click **Run workflow**. Future updates are scheduled daily.
 
 ---
 
