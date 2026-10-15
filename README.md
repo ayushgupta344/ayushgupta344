@@ -183,11 +183,11 @@ Hands-on learning across AWS cloud foundations, AI, and application development.
 
 ---
 
-## 🌌 3D Contribution Graph
+## ✨ Developer Universe
 
 <div align="center">
 
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub contribution graph" width="100%"/>
+<img src="./assets/3d-developer-orb.svg" alt="3D developer universe with glowing orb and orbital rings" width="100%"/>
 
 </div>
 
